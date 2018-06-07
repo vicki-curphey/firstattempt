@@ -56,9 +56,9 @@ $ echo "node_modules" >> .gitignore
 Install it following [this tutorial](https://www.youtube.com/watch?v=A5fiWcVcADw&index=2&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
 Go to the folder where mongod.exe is located
 Then type a similar query to this to get the database running
-
+Make sure the command is in bunny ears =)
 ```
-C:\mongodb\bin> $ mongod.exe
+"C:\Program Files\MongoDB\Server\3.6\bin\mongod.exe"
 ```
 
 ## Install Express
